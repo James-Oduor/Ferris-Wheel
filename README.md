@@ -1,7 +1,7 @@
 # Ferris Wheel Animation
 
 A simple and responsive web animation of a Ferris wheel created with HTML and CSS. The wheel rotates continuously, and its cabins change colors dynamically, showcasing basic CSS animation techniques.
-
+![image](https://github.com/user-attachments/assets/5fe523ab-891a-4342-bcfa-64d79e4b0801)
 ## Features
 
 - **Rotating Ferris Wheel**: Smooth and continuous rotation.
@@ -9,7 +9,7 @@ A simple and responsive web animation of a Ferris wheel created with HTML and CS
 - **Responsive Design**: Adapts to different screen sizes.
 
 
-![image](https://github.com/user-attachments/assets/5fe523ab-891a-4342-bcfa-64d79e4b0801)
+
 
 ## Usage
 
