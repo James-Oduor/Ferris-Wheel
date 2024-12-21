@@ -1,6 +1,8 @@
 # Ferris Wheel Animation
 
 A simple and responsive web animation of a Ferris wheel created with HTML and CSS. The wheel rotates continuously, and its cabins change colors dynamically, showcasing basic CSS animation techniques.
+This is the hyperlink for this project https://ferris-wheel-project-app.netlify.app/
+
 ![image](https://github.com/user-attachments/assets/5fe523ab-891a-4342-bcfa-64d79e4b0801)
 ## Features
 
@@ -11,11 +13,6 @@ A simple and responsive web animation of a Ferris wheel created with HTML and CS
 
 
 
-## Usage
+## Intallation
 
-Follow these steps to view the Ferris wheel animation:
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/ferris-wheel-animation.git
-   cd ferris-wheel-animation
+https://ferris-wheel-project-app.netlify.app/
